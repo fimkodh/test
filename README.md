@@ -16,7 +16,8 @@ Flutter 3.3.10 • Dart 2.18.6
 
 A landscape mode with a special ratio of widget sizes is provided.
 ___
- 
+
+*NOTE* since this project is a pet project, cases of overengineering are possible
 
 
 
