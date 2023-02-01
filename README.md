@@ -1,6 +1,6 @@
 # Expenses App
 
-<img src="assets/images/app.gif" alt="drawing" height="400"/>
+<img src="ezgif.com-gif-maker.gif" alt="drawing" height="400"/>
 
 A new Flutter project.
 
