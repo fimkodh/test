@@ -1,6 +1,6 @@
 # Expenses App
 
-![app](/assets/images/app.gif)
+![app](app.gif)
 
 The app allows user to create and track his expenses. 
 The user can specify the title, amount and date of the expense.
