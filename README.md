@@ -1,18 +1,13 @@
 # Expenses App
 
-![app](app.gif)
+![app](/assets/images/app.gif)
 
-A new Flutter project.
+The app allows user to create and track his expenses. 
+The user can specify the title, amount and date of the expense.
+The chart bar at the top of the screen displays spending in each day for the last 7 days relative to the total amount spent.
 
-## Getting Started
+## Technical description
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
