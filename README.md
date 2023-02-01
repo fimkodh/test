@@ -1,6 +1,6 @@
 # Expenses App
 
-![app](/assets/images/app.gif)
+![app](app.gif)
 
 A new Flutter project.
 
