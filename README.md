@@ -1,6 +1,7 @@
 # Expenses App
 
 ![app](app.gif)
+
 ![app](app_landscape.gif)
 
 The app allows user to create and track his expenses. 
